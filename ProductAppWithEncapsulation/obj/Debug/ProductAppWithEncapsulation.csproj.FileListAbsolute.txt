@@ -1,0 +1,8 @@
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\ProductAppWithEncapsulation\ProductAppWithEncapsulation\bin\Debug\ProductAppWithEncapsulation.exe.config
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\ProductAppWithEncapsulation\ProductAppWithEncapsulation\bin\Debug\ProductAppWithEncapsulation.exe
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\ProductAppWithEncapsulation\ProductAppWithEncapsulation\bin\Debug\ProductAppWithEncapsulation.pdb
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\ProductAppWithEncapsulation\ProductAppWithEncapsulation\obj\Debug\ProductAppWithEncapsulation.csproj.AssemblyReference.cache
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\ProductAppWithEncapsulation\ProductAppWithEncapsulation\obj\Debug\ProductAppWithEncapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\ProductAppWithEncapsulation\ProductAppWithEncapsulation\obj\Debug\ProductAppWithEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\ProductAppWithEncapsulation\ProductAppWithEncapsulation\obj\Debug\ProductAppWithEncapsulation.exe
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\ProductAppWithEncapsulation\ProductAppWithEncapsulation\obj\Debug\ProductAppWithEncapsulation.pdb
